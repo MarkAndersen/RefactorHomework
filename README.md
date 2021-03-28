@@ -28,4 +28,7 @@
 
 -**Consolidated many CSS selectors, either by adding common classes in the html, changing class selectors to more general tag selectors, or aligning the selector elements into one block to apply common styling change to them all.**
 
+**deployed application:**
+https://markandersen.github.io/RefactorHomework/
+
 
